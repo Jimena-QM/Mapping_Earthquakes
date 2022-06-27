@@ -9,4 +9,4 @@ The Earthquake map has a legend based on magnitude.
 
 The final layered map:
 
-![FinalMap] (https://github.com/Jimena-QM/Mapping_Earthquakes/blob/main/images/ChallengeMap.jpg)
+ ![Alt text]( https://github.com/Jimena-QM/Mapping_Earthquakes/blob/main/images/ChallengeMap.jpg "Final Map")
